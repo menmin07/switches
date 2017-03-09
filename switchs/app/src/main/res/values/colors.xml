@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bc">#a0f4af</color>
+    <color name="bcsw1">#aefcf8</color>
+    <color name="bcsw2">#fab7ff</color>
+    <color name="bcsw3">#f5abb0</color>
+    <color name="bcsw4">#afc1fa</color>
+    <color name="bcsw5">#fcd4b1</color>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">switchs</string>
+    <string name="t1">Выбрано первый месяц</string>
+    <string name="t2">Выбрано второй месяц</string>
+    <string name="t3">Выбрано третий месяц</string>
+    <string name="t4">Выбрано четвертый месяц</string>
+    <string name="t5">Выбрано пятый месяц</string>
+    <string name="t6">Выбрано шестой месяц</string>
+    <string name="t7">Выбрано седьмой месяц</string>
+    <string name="t8">Выбрано восьмой месяц</string>
+    <string name="t9">Выбрано девятый месяц</string>
+    <string name="t10">Выбрано десятый месяц</string>
+    <string name="t11">Выбрано одинадцатый месяц</string>
+    <string name="t12">Выбрано двенадцатый месяц</string>
+    <string name="sw2">Switch2</string>
+    <string name="sw3">Switch3</string>
+    <string name="sw4">Switch4</string>
+    <string name="month">Выбери месяц</string>
+    <string name="switch1">Switch1</string>
+    <string name="switch2">Switch2</string>
+    <string name="switch3">Switch3</string>
+    <string name="switch4">Switch4</string>
+    <string name="switch5">Switch5</string>
+    <string name="switch6">Switch6</string>
+    <string name="switch7">Switch7</string>
+    <string name="switch8">Switch8</string>
+    <string name="tvmainfone">У нас пока всего 5 примеров</string>
+    <string name="text1">Вы выбрали первый пример. Далее наберите цифру.</string>
+    <string name="text2">Вы выбрали второй пример. Далее наберите цифру.</string>
+    <string name="text3">Вы выбрали третий пример. Далее наберите цифру.</string>
+    <string name="text4">Вы выбрали четвертый пример. Далее наберите порядок букв: "abc", "abcd", abcdE".</string>
+    <string name="text5">Вы выбрали пятый пример. Далее наберите цифру: 1, 2, 3 или 4.</string>
+    <string name="text6">Вы выбрали пятый пример. Далее если хотите продолжить, вы должны принять: "Y", "Yes", "yes","y", либо отказать: "N", "No", "no", "n".</string>
+    <string name="text7">Вы выбрали седьмой пример. Далее наберите цифру.</string>
+    <string name="text8">Вы выбрали восьмой пример. Далее наберите цифру.</string>
+</resources>
